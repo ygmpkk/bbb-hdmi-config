@@ -1,0 +1,29 @@
+/etc/gdm/Xsession: Beginning session setup...
+/etc/gdm/Xsession: Setup done, will execute: /usr/bin/ssh-agent -- gnome-session
+GNOME_KEYRING_CONTROL=/tmp/keyring-kLc1wd
+GNOME_KEYRING_PID=540
+GNOME_KEYRING_CONTROL=/tmp/keyring-kLc1wd
+GPG_AGENT_INFO=/tmp/keyring-kLc1wd/gpg:0:1
+GNOME_KEYRING_CONTROL=/tmp/keyring-kLc1wd
+GPG_AGENT_INFO=/tmp/keyring-kLc1wd/gpg:0:1
+GNOME_KEYRING_CONTROL=/tmp/keyring-kLc1wd
+GPG_AGENT_INFO=/tmp/keyring-kLc1wd/gpg:0:1
+SSH_AUTH_SOCK=/tmp/keyring-kLc1wd/ssh
+
+** (gnome-settings-daemon:543): WARNING **: Failed to connect context: OK
+Error: No calibratable devices found.
+Unable to open desktop file evolution.desktop for panel launcher
+
+(gdu-notification-daemon:578): libgdu-WARNING **: unhandled property 'DeviceAutomountHint'
+
+(gdu-notification-daemon:578): libgdu-WARNING **: unhandled property 'DeviceAutomountHint'
+
+(gdu-notification-daemon:578): libgdu-WARNING **: unhandled property 'DeviceAutomountHint'
+
+(gdu-notification-daemon:578): libgdu-WARNING **: unhandled property 'DeviceAutomountHint'
+
+(gdu-notification-daemon:578): libgdu-WARNING **: unhandled property 'DeviceAutomountHint'
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+Xlib:  extension "DPMS" missing on display ":0".
+
+(gdu-notification-daemon:578): libgdu-WARNING **: unhandled property 'DeviceAutomountHint'

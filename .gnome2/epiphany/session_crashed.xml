@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<session>
+	 <window x="0" y="25" width="1024" height="695" active-tab="0" role="epiphany-window-f2ead86">
+	 	 <embed url="https://www.google.com/#newwindow=1&amp;q=beaglebone+black+xorg.conf" title="beaglebone black xorg.conf - Google Search"/>
+	 </window>
+	 <window x="0" y="25" width="1024" height="695" active-tab="0" role="epiphany-window-cba537b">
+	 	 <embed url="http://ubuntuforums.org/showthread.php?t=1270209" title="[all variants] Sample xorg.conf for 1024x768 24bit with vesa driver" loading="true"/>
+	 </window>
+</session>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ephy_favicons_cache version="1.1">
+  <node id="30">
+    <property id="2" value_type="gchararray">http://www.google.com/favicon.ico</property>
+    <property id="3" value_type="gchararray">27d2f0cdb0894546cc268412f5cbb913</property>
+    <property id="4" value_type="gint">946685121</property>
+    <property id="7" value_type="gint">60</property>
+    <parent id="9"/>
+  </node>
+  <node id="31">
+    <property id="2" value_type="gchararray">http://archlinuxarm.org/favicon.ico</property>
+    <property id="3" value_type="gchararray">3184f5aead3b28abbf0f38976def82a7</property>
+    <property id="4" value_type="gint">946685161</property>
+    <property id="7" value_type="gint">60</property>
+    <parent id="9"/>
+  </node>
+  <node id="32">
+    <property id="2" value_type="gchararray">https://www.google.com/favicon.ico</property>
+    <property id="3" value_type="gchararray">5072ba6ed8b72364c6056dca21f287a9</property>
+    <property id="4" value_type="gint">946685262</property>
+    <property id="7" value_type="gint">60</property>
+    <parent id="9"/>
+  </node>
+  <node id="33">
+    <property id="2" value_type="gchararray">http://www.element14.com/community/themes/e14/images/favicon.ico</property>
+    <property id="3" value_type="gchararray">3b2cce5f5ba5e3e5e04442d5c5ccddbf</property>
+    <property id="4" value_type="gint">946685330</property>
+    <property id="7" value_type="gint">60</property>
+    <parent id="9"/>
+  </node>
+  <node id="34">
+    <property id="2" value_type="gchararray">http://ubuntuforums.org/favicon.ico</property>
+    <property id="3" value_type="gchararray">9804b7d369518184391cec237dc26ad3</property>
+    <property id="4" value_type="gint">946685442</property>
+    <property id="7" value_type="gint">60</property>
+    <parent id="9"/>
+  </node>
+</ephy_favicons_cache>

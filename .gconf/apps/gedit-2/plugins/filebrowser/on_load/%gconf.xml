@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="virtual_root" mtime="946684884" type="string">
+		<stringvalue>file:///media/BEAGLEBONE</stringvalue>
+	</entry>
+	<entry name="root" mtime="946684884" type="string">
+		<stringvalue>file:///</stringvalue>
+	</entry>
+	<entry name="tree_view" mtime="946684884" type="bool" value="true"/>
+</gconf>
